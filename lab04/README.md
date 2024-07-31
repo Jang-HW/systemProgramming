@@ -58,5 +58,5 @@
 - 실행 결과에 F, I, R, D 필수 출력 !
 
 
-문자 매핑이 다른거 같습니다만... 
+<sys/stat.h>랑 매핑이 다른거 같습니다. </br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/nDmmZHh/lab-B-2-mapping-is-different.png" alt="lab-B-2-mapping-is-different" border="0"></a>
